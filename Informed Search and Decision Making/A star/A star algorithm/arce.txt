@@ -1,0 +1,13 @@
+12
+a b 3
+a c 9
+a d 7
+c e 10
+c g 6
+b f 100
+b e 4
+d i 4
+i j 2
+i k 1
+e c 1
+e f 8
