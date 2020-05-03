@@ -10,4 +10,4 @@
 
 # Min-Max and Alpha-Beta
 
-[Reversi game](https://github.com/IordachescuAnca/Artificial-Intelligence/tree/master/Informed%20Search%20and%20Decision%20Making/Min-Max%20-%20Reversi%20Game)
+- [Reversi game](https://github.com/IordachescuAnca/Artificial-Intelligence/tree/master/Informed%20Search%20and%20Decision%20Making/Min-Max%20-%20Reversi%20Game)
